@@ -16,7 +16,7 @@ If the theme is published to OpenVSX, it will appear in Cursor's extension marke
 
 ### Manual Install
 
-1. Download the `.vsix` file from the [Releases](https://github.com/beforeblackout/light-spinel/releases) page
+1. Download the `.vsix` file from the [Releases](https://github.com/PET-PROJECTING/light-spinel-vscode-theme/releases) page
 2. In Cursor/VS Code: `Extensions` → `...` → `Install from VSIX...`
 3. Select the downloaded file
 
