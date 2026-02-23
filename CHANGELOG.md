@@ -4,7 +4,7 @@ All notable changes to the "Light Spinel" extension will be documented in this f
 
 Check [Keep a Changelog](https://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [0.0.1] - 2025-02-23
+## [0.1.0] - 2025-02-23
 
 ### Added
 

@@ -2,7 +2,7 @@
   "name": "light-spinel",
   "displayName": "Light Spinel",
   "description": "A light, refined color theme for Cursor and VS Code",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "beforeblackout",
   "license": "MIT",
   "repository": {
