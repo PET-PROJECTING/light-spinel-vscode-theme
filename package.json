@@ -1,0 +1,33 @@
+{
+  "name": "light-spinel",
+  "displayName": "Light Spinel",
+  "description": "A light, refined color theme for Cursor and VS Code",
+  "version": "0.0.1",
+  "publisher": "beforeblackout",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/beforeblackout/light-spinel"
+  },
+  "keywords": [
+    "theme",
+    "light",
+    "color-theme",
+    "cursor"
+  ],
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Light Spinel",
+        "uiTheme": "vs",
+        "path": "./themes/light-spinel.json"
+      }
+    ]
+  }
+}
